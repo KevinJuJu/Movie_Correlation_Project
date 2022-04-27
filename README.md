@@ -1,3 +1,2 @@
 # Portfolio-Projects
-
-# Side projects for practicing and show data analysis skills
+Side projects for practicing and showing data analysis skills
